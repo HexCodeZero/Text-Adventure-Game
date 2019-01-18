@@ -33,4 +33,4 @@ Allows the game to be completed if conditions are met.
 Displays all the commands and help
 
 # Credits
-Game Design and Creation: Hasan Gandor
+Game Designed and Created by Hasan Gandor.
