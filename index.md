@@ -1,2 +1,3 @@
 ### Commands
-- go
+# Go
+use to move around the map
