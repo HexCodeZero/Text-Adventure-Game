@@ -20,7 +20,7 @@ This command lets you use healing items.
 ### take
 Pick up item from the map and into your inventory to be used/equipped.
 
-### equip / unequip map
+### equip / unequip
 Equips and unequips equipment, respectivley.
 
 ### map
